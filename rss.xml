@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Инфопрепод - услуги и консультации в IT сфере</title>
+		<description>Авторский сайт креативного преподавателя. Услуги и консультации по информационным технологиям и не только.</description>
+		<link></link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Профессии в сфере Web - Инфопрепод</title>
+				<description><![CDATA[
+					<a href="/blog/other/2020-06-13-professii-v-sfere-web.html"><img width="100%" src="images/other/2020/2020-06-13-professii-v-sfere-web/1.jpg"></a>
+					Cегодня я бы хотел поговорить о профессиях в сфере Web. Я дам краткую характеристику профессиям, и расскажу, за что платят деньги конкретным специалистам. Все профессии в сфере Web, связаны непосредственно с сайтами и их продвижением. Зачем нужны сайты?
+					]]></description>
+				<pubDate>Sat, 13 Jun 2020 00:00:00 +0300</pubDate>
+				<link>/blog/other/2020-06-13-professii-v-sfere-web.html</link>
+				<guid isPermaLink="true">/blog/other/2020-06-13-professii-v-sfere-web.html</guid>
+			</item>
+		
+	</channel>
+</rss>

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /index.html
+Host: infoprepod.ru
+Sitemap: http://infoprepod.ru/sitemap.xml
